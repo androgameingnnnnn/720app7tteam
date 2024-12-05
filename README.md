@@ -13,9 +13,9 @@ This project contains automation scripts for setting up a web server using Nginx
 1. Clone the repository:
    ```bash
    git clone https://github.com/7tteam/web-server-automation.git
-
+```
 cd web-server-automation/scripts
 sudo bash install-nginx.sh
 sudo bash install-php.sh
 sudo bash configure-nginx.sh
-```
+
